@@ -1,0 +1,3 @@
+COMMANDS
+- To switch to another branch -- git checkout <branchname>
+- To know the which branch --- git branchname
